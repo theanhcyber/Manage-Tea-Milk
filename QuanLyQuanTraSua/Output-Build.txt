@@ -1,0 +1,29 @@
+﻿Build started...
+1>------ Build started: Project: QuanLyQuanTraSua, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\TableDao.cs(45,30,45,31): warning CS0168: The variable 'e' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\BillDao.cs(34,29,34,30): warning CS0168: The variable 'e' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\BillDao.cs(47,30,47,31): warning CS0168: The variable 'e' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\TableDao.cs(59,30,59,31): warning CS0168: The variable 'e' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\TableDao.cs(73,30,73,31): warning CS0168: The variable 'e' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\AccountDao.cs(63,31,63,33): warning CS0168: The variable 'ex' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\BillDao.cs(86,29,86,30): warning CS0168: The variable 'e' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\BillInformationDao.cs(35,31,35,33): warning CS0168: The variable 'ex' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\BillDao.cs(99,30,99,31): warning CS0168: The variable 'e' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\BillDao.cs(112,30,112,31): warning CS0168: The variable 'e' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\BillInformationDao.cs(67,31,67,33): warning CS0168: The variable 'ex' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\FoodCategoryDao.cs(41,31,41,33): warning CS0168: The variable 'ex' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\BillDao.cs(125,30,125,31): warning CS0168: The variable 'e' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\FoodCategoryDao.cs(59,34,59,36): warning CS0168: The variable 'ex' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\FoodDao.cs(49,32,49,34): warning CS0168: The variable 'ex' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\BillDao.cs(137,30,137,31): warning CS0168: The variable 'e' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\View\fTableManager.cs(208,38,208,40): warning CS0168: The variable 'ex' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\FoodDao.cs(62,32,62,34): warning CS0168: The variable 'ex' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\FoodDao.cs(83,30,83,32): warning CS0168: The variable 'ex' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\View\fAdmin.cs(235,30,235,32): warning CS0168: The variable 'ee' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\Dao\FoodDao.cs(103,29,103,31): warning CS0168: The variable 'ex' is declared but never used
+1>D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\View\fAdmin.cs(313,30,313,32): warning CS0168: The variable 'ee' is declared but never used
+1>QuanLyQuanTraSua -> D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\QuanLyQuanTraSua.dll
+1>Done building project "QuanLyQuanTraSua.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 9:33 AM and took 00,432 seconds ==========

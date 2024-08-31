@@ -1,0 +1,136 @@
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\QuanLyQuanTraSua.exe
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\QuanLyQuanTraSua.deps.json
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\QuanLyQuanTraSua.runtimeconfig.json
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\QuanLyQuanTraSua.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\QuanLyQuanTraSua.pdb
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.csproj.AssemblyReference.cache
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.fLogin.resources
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.csproj.GenerateResource.cache
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.GeneratedMSBuildEditorConfig.editorconfig
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.AssemblyInfoInputs.cache
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.AssemblyInfo.cs
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.csproj.CoreCompileInputs.cache
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\refint\QuanLyQuanTraSua.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.pdb
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.genruntimeconfig.cache
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\ref\QuanLyQuanTraSua.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.fTableManager.resources
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.fProfile.resources
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.fAdmin.resources
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Humanizer.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.csproj.CopyComplete
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\bin\Debug\net6.0-windows\appsettings.json
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.Properties.Resources.resources
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.View.faddtable.resources
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.View.faddfoodcategory.resources
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.View.faddfood.resources
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.View.fforgetpassword.resources
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.View.fChangPassword.resources
+D:\KI 5\PRN211\ProjectQuanliQuanTraSua\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.View.fAddAccount.resources
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\QuanLyQuanTraSua.exe
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\QuanLyQuanTraSua.deps.json
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\QuanLyQuanTraSua.runtimeconfig.json
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\QuanLyQuanTraSua.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\QuanLyQuanTraSua.pdb
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.csproj.AssemblyReference.cache
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.Properties.Resources.resources
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.View.fAddAccount.resources
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.View.faddfood.resources
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.View.faddfoodcategory.resources
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.View.faddtable.resources
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.fAdmin.resources
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.View.fChangPassword.resources
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.View.fforgetpassword.resources
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.fLogin.resources
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.fProfile.resources
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.fTableManager.resources
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.csproj.GenerateResource.cache
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.AssemblyInfoInputs.cache
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.AssemblyInfo.cs
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.csproj.CoreCompileInputs.cache
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.csproj.CopyComplete
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\refint\QuanLyQuanTraSua.dll
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.pdb
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\QuanLyQuanTraSua.genruntimeconfig.cache
+C:\Users\PhanQuangHuy59\OneDrive\Desktop\ProjectWorked\projectwinformmanagementrestaurant\QuanLyQuanTraSua\obj\Debug\net6.0-windows\ref\QuanLyQuanTraSua.dll
